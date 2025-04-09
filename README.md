@@ -1,2 +1,2 @@
-# fristrepo1
+# firstrepo1
 my first project
